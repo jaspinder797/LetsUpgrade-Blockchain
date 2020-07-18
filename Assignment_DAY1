@@ -1,0 +1,33 @@
+Q1)  What is Your Understanding of Blockchain?
+
+Ans. As per my Opinion, it is a distributed System of blocks(containing replica of data in each block) with loosely coupled network.
+     If one block find tampering in data, raise a exception then other blocks provide the replica of data.
+	 
+	 
+Q2)  What is the core problem Blockchain trying to solve?
+
+Ans. Central focus is Security of Data. We are Concerned with transaction, Be it a deposit to Bank or any other Sensitive information that
+     we want to be untouchable by unauthorized third party . Blockchain eradicate security problem, sends data to all instances(blocks). 
+	 If any block find it tampered, it will notify and pull the replica of functional and qualified transaction of data.
+	 
+	 
+Q3)  What are few features which blockchain will give you?
+
+Ans. 1. Security
+     2. Data Redundancy
+	 3. Low Latency
+	 4. Maintainance with low overhead
+	 
+
+Q4)  What all things does a blockchain contain?
+
+Ans. 1. Block Number
+     2. Transaction Records
+	 3. Previous Block Signature
+	 4. Mining Key
+	 
+	 
+Q5)  How is the Verifiability of Blockchain is been attained?
+
+Ans. When Data is updated in certain block, a new Signature is generated. All blocks Match this signature
+     if the transaction is fully qualified having same signature in each and every block.
